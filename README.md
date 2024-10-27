@@ -19,6 +19,8 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 - Açılan sayfada ne kadar alan ayıracağınızı (MB) yazın (80-90 GB yeterli olacaktır.).
 - Onayladıktan sonra ayrılmamış bölüm olarak yeni bir alan oluşacak.
 
+  ![]()
+
 ### Adım 2: Ubuntu ISO dosyası indirme
   [ubuntunun resmi web sitesine gidin](https://ubuntu.com/download/desktop) ve Ubuntu 24.04 LTS sürümünü indirin.
   ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20141428.png)
@@ -40,7 +42,10 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 3. bilgisayar açılırken Boot Menu'ye girmek için klavyenizdeki uygun tuşa basın (genellikle f12, f2 veya del tuşları).
 4. Önyükleme menüsünde USB belleği seçin.
 
-![]()
+![](https://github.com/Misracan165/ubuntu/blob/main/WhatsApp%20G%C3%B6rsel%202024-10-27%20saat%2021.29.55_447a5286.jpg)
+
+### Adım 5: Ubbuntu kurulumunu başlatın
+1.
 
     
 
