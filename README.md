@@ -44,7 +44,7 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 
    ![](https://github.com/Misracan165/ubuntu/blob/main/WhatsApp%20G%C3%B6rsel%202024-10-27%20saat%2021.29.55_447a5286.jpg)
 
-### Adım 5: Ubbuntu kurulumunu başlatın
+### Adım 5: Ubuntu kurulumunu başlatma
 1. Ubuntu başlangıç ekranında "Try or Install Ubuntu" seçeneğini seçin
 
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20144611.png)
@@ -70,11 +70,17 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145603.png)
 
 ### Adım 6: Disk bölümlendirmesi
-- Manuel olarak kurmayı seçin
-- İlk adımda ayırdığınız boş diski seçip +'ya basın
-- Alanın tamamını seçin ve Mount Point'i "/" olarak ayarlayıp tamam'a basın
+- Manuel olarak kurmayı seçin.
+- İlk adımda ayırdığınız boş diski seçip +'ya basın.
+- Alanın tamamını seçin ve Mount Point'i "/" olarak ayarlayıp tamam'a basın.
 - Yanlış bir alanı işaretlemediğinizden emin olduktan sonra diğer adıma geçip kullanıcı bilgilerinizi ayarlayın.
-- 
+- Yaşadığınız ülkeyi ve saat dilimini seçin.
+
+### Adım 7: Kurulumu tamamlama
+- Seçtiğiniz ayarları kontrol edin ve kurulumu tamamlayın.
+- Kurulum tamamlandıktan sonra "Restart Now" seçeneğini seçin.
+- USB belleği çıkarın ve Enter'a basın
+  ![]()
    
    
 
