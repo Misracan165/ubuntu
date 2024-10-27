@@ -11,8 +11,12 @@
   ISO dosyasını bir diske veya USB sürücüye yazdırarak önyüklenebilir hale getirebilir ve kurulum yapabilirsiniz.
 
 **Rufus nedir:**
-Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak
-![resim]()
+Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak için kullanılan bir araçtır. genellikle işletim sistemi kurulumları için kullanılır. Bu program ISO dosyasını bir USB sürücüye yazarak sürücüyü önyüklenebilie hale getirir, böylece bilgisayar açıldığında doğrudan USB üzerinden işletim sistemi kurulumunu başlatabilirsiniz.
+
+### Adım 1: Ubuntu 24.04 ISO dosyasını indirme
+- [ubuntunun resmi web sitesine gidin](https://ubuntu.com/download/desktop) ve Ubuntu 24.04 LTS sürümünü indirin.
+- ![]()
+
 
 
 
