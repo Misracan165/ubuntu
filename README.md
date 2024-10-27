@@ -87,6 +87,8 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 - Ubuntu açıldığında kullanıcı adı ve şifrenizi girerek sisteme giriş yapın.
 - **Ubuntu 24.04 kurulumu başarıyla tamamlandı**
 
+  ![](https://github.com/Misracan165/ubuntu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20224224.png)
+
 Bu adımları takip ederek Ubuntu 24.04 kurulumunu tamamlayabilirsiniz.
    
    
