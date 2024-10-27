@@ -50,7 +50,10 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 2. Dil seçimini yapın
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20144640.png)
 3. Ubuntuyu deneme veya kurma seçeneklerinden kurmayı seçin.
+   ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145406.png)
+4. İnteractive installation seçeneği ile devam edin.
    ![]()
+
     
 
 
