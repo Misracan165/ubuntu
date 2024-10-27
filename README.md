@@ -1,3 +1,3 @@
 # ubuntu
 ubuntu 24.04 kurulumu
-![resim](images/Ekran görüntüsü 2024-10-27 150031)
+![resim](https://github.com/Misracan165/ubuntu/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20150031.png)
