@@ -46,7 +46,7 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 
 ### Adım 5: Ubbuntu kurulumunu başlatın
 1. Ubuntu başlangıç ekranında "Install Ubuntu" seçeneğini seçin
-   ![]()
+   ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20144611.png)
 2. Dil seçimini yapın
    ![]()
     
