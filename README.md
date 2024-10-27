@@ -35,12 +35,13 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20142538.png)
 
 ### Adım 4: Bilgisayarı USB'den önyükleme
-1. Bilgisayarınızı kaoatın
-2. USB bellek takılı haldeyken bilgisayarınızı tekrar açın
+1. bilgisayarı kapatın.
+2. USB bellek takılı haldeyken bilgisayarınızı tekrar açın.
 3. bilgisayar açılırken Boot Menu'ye girmek için klavyenizdeki uygun tuşa basın (genellikle f12, f2 veya del tuşları).
-4. Önyükleme menüsünde USB belleği ilk sıraya alın.
+4. Önyükleme menüsünde USB belleği seçin.
 
 ![]()
+
     
 
 
