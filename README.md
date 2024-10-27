@@ -42,21 +42,40 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 3. bilgisayar açılırken Boot Menu'ye girmek için klavyenizdeki uygun tuşa basın (genellikle f12, f2 veya del tuşları).
 4. Önyükleme menüsünde USB belleği seçin.
 
-![](https://github.com/Misracan165/ubuntu/blob/main/WhatsApp%20G%C3%B6rsel%202024-10-27%20saat%2021.29.55_447a5286.jpg)
+   ![](https://github.com/Misracan165/ubuntu/blob/main/WhatsApp%20G%C3%B6rsel%202024-10-27%20saat%2021.29.55_447a5286.jpg)
 
 ### Adım 5: Ubbuntu kurulumunu başlatın
 1. Ubuntu başlangıç ekranında "Try or Install Ubuntu" seçeneğini seçin
+
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20144611.png)
-2. Dil seçimini yapın
+
+3. Dil seçimini yapın
+
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20144640.png)
-3. Ubuntuyu deneme veya kurma seçeneklerinden kurmayı seçin.
+
+4. Ubuntuyu deneme veya kurma seçeneklerinden kurmayı seçin.
+
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145406.png)
-4. İnteractive installation seçeneği ile devam edin.
+
+5. İnteractive installation seçeneği ile devam edin.
+
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145451.png)
-5. Varsayılan seçeneği seçin.
+
+6. Varsayılan seçeneği seçin.
+
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145531.png)
-6. Önerilen ek yazılımları yükleyin.
-   ![]()
+
+7. Önerilen ek yazılımları yükleyin.
+
+   ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145603.png)
+
+### Adım 6: Disk bölümlendirmesi
+- Manuel olarak kurmayı seçin
+- İlk adımda ayırdığınız boş diski seçip +'ya basın
+- Alanın tamamını seçin ve Mount Point'i "/" olarak ayarlayıp tamam'a basın
+- Yanlış bir alanı işaretlemediğinizden emin olduktan sonra diğer adıma geçip kullanıcı bilgilerinizi ayarlayın.
+- 
+   
    
 
     
