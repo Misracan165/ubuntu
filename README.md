@@ -45,9 +45,11 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 ![](https://github.com/Misracan165/ubuntu/blob/main/WhatsApp%20G%C3%B6rsel%202024-10-27%20saat%2021.29.55_447a5286.jpg)
 
 ### Adım 5: Ubbuntu kurulumunu başlatın
-1. Ubuntu başlangıç ekranında "Install Ubuntu" seçeneğini seçin
+1. Ubuntu başlangıç ekranında "Try or Install Ubuntu" seçeneğini seçin
    ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20144611.png)
 2. Dil seçimini yapın
+   ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20144640.png)
+3. Ubuntuyu deneme veya kurma seçeneklerinden kurmayı seçin.
    ![]()
     
 
