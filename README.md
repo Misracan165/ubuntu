@@ -80,7 +80,14 @@ Rufus, bir USB bellek üzerine önyüklenebilir bir disk görüntüsü yazmak i�
 - Seçtiğiniz ayarları kontrol edin ve kurulumu tamamlayın.
 - Kurulum tamamlandıktan sonra "Restart Now" seçeneğini seçin.
 - USB belleği çıkarın ve Enter'a basın
-  ![]()
+
+  ![](https://github.com/Misracan165/ubuntu/blob/main/images/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-27%20145833.png)
+
+### Adım 8: Kullanıma hazır hale getirme
+- Ubuntu açıldığında kullanıcı adı ve şifrenizi girerek sisteme giriş yapın.
+- **Ubuntu 24.04 kurulumu başarıyla tamamlandı**
+
+Bu adımları takip ederek Ubuntu 24.04 kurulumunu tamamlayabilirsiniz.
    
    
 
